@@ -1,0 +1,191 @@
+Archive Project report for Week3_Lab
+Fri Apr 10 03:44:25 2026
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri Apr 10 03:44:25 2026 ;
+; Revision Name          ; Week3_Lab                             ;
+; Top-level Entity Name  ; Week3_Lab                             ;
+; Family                 ; MAX 10                                ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Warning (292006): Can't contact license server "1700@lic-altera.eng.monash.edu" -- this server will be ignored.
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/ECE3073/Project/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/ECE3073/Project/Cronos.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Week3_Lab.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 2 warnings
+    Info: Peak virtual memory: 4869 megabytes
+    Info: Processing ended: Fri Apr 10 03:44:25 2026
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++---------------------------------------------------------------------------------------------------------+
+; Files Archived                                                                                          ;
++---------------------------------------------------------------------------------------------------------+
+; File Name                                                                                               ;
++---------------------------------------------------------------------------------------------------------+
+; assignment_defaults.qdf                                                                                 ;
+; Cronos.qpf                                                                                              ;
+; NIOS2_WEEK2.qsys                                                                                        ;
+; NIOS2_WEEK2.sopcinfo                                                                                    ;
+; NIOS2_WEEK2/NIOS2_WEEK2.bsf                                                                             ;
+; NIOS2_WEEK2/NIOS2_WEEK2.cmp                                                                             ;
+; NIOS2_WEEK2/NIOS2_WEEK2.html                                                                            ;
+; NIOS2_WEEK2/NIOS2_WEEK2.xml                                                                             ;
+; NIOS2_WEEK2/NIOS2_WEEK2_bb.v                                                                            ;
+; NIOS2_WEEK2/NIOS2_WEEK2_generation.rpt                                                                  ;
+; NIOS2_WEEK2/NIOS2_WEEK2_generation_previous.rpt                                                         ;
+; NIOS2_WEEK2/NIOS2_WEEK2_inst.v                                                                          ;
+; NIOS2_WEEK2/NIOS2_WEEK2_inst.vhd                                                                        ;
+; NIOS2_WEEK2/synthesis/NIOS2_WEEK2.debuginfo                                                             ;
+; NIOS2_WEEK2/synthesis/NIOS2_WEEK2.qip                                                                   ;
+; NIOS2_WEEK2/synthesis/NIOS2_WEEK2.regmap                                                                ;
+; NIOS2_WEEK2/synthesis/NIOS2_WEEK2.v                                                                     ;
+; NIOS2_WEEK2/synthesis/submodules/altera_avalon_sc_fifo.v                                                ;
+; NIOS2_WEEK2/synthesis/submodules/altera_avalon_st_pipeline_base.v                                       ;
+; NIOS2_WEEK2/synthesis/submodules/altera_avalon_st_pipeline_stage.sv                                     ;
+; NIOS2_WEEK2/synthesis/submodules/altera_default_burst_converter.sv                                      ;
+; NIOS2_WEEK2/synthesis/submodules/altera_incr_burst_converter.sv                                         ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_address_alignment.sv                                     ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_arbitrator.sv                                            ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_burst_adapter.sv                                         ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv                                    ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_burst_adapter_new.sv                                     ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv                                  ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_burst_uncompressor.sv                                    ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_master_agent.sv                                          ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_master_translator.sv                                     ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_slave_agent.sv                                           ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_slave_translator.sv                                      ;
+; NIOS2_WEEK2/synthesis/submodules/altera_merlin_width_adapter.sv                                         ;
+; NIOS2_WEEK2/synthesis/submodules/altera_reset_controller.sdc                                            ;
+; NIOS2_WEEK2/synthesis/submodules/altera_reset_controller.v                                              ;
+; NIOS2_WEEK2/synthesis/submodules/altera_reset_synchronizer.v                                            ;
+; NIOS2_WEEK2/synthesis/submodules/altera_up_accelerometer_spi_auto_init.v                                ;
+; NIOS2_WEEK2/synthesis/submodules/altera_up_accelerometer_spi_auto_init_ctrl.v                           ;
+; NIOS2_WEEK2/synthesis/submodules/altera_up_accelerometer_spi_serial_bus_controller.v                    ;
+; NIOS2_WEEK2/synthesis/submodules/altera_up_accelerometer_spi_slow_clock_generator.v                     ;
+; NIOS2_WEEK2/synthesis/submodules/altera_wrap_burst_converter.sv                                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_ACCEL_SPI.v                                                ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_CAMERA_READY.v                                             ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_GPIO3.v                                                    ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_IMG_ADDR_DRAM.v                                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_irq_mapper.sv                                              ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_jtag_uart_0.v                                              ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_LEDR.v                                                     ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0.v                                        ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter.v                      ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_001.v                  ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_001_error_adapter_0.sv ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_005.v                  ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_006.v                  ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0.sv ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv     ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_cmd_demux.sv                             ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_cmd_demux_001.sv                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_cmd_mux.sv                               ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_cmd_mux_001.sv                           ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_cmd_mux_002.sv                           ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router.sv                                ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_001.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_002.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_003.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_004.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_005.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_007.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_router_008.sv                            ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_rsp_demux.sv                             ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_rsp_demux_001.sv                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_rsp_demux_002.sv                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_rsp_mux.sv                               ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_mm_interconnect_0_rsp_mux_001.sv                           ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_new_sdram_controller_0.v                                   ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0.v                                             ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu.sdc                                       ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu.v                                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_debug_slave_sysclk.v                      ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_debug_slave_tck.v                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_debug_slave_wrapper.v                     ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_ociram_default_contents.mif               ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_rf_ram_a.mif                              ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_rf_ram_b.mif                              ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_nios2_gen2_0_cpu_test_bench.v                              ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_onchip_memory2_0.hex                                       ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_onchip_memory2_0.v                                         ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_PB_SW_1.v                                                  ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_pio_0.v                                                    ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_pio_1.v                                                    ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_pio_2.v                                                    ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_pio_3.v                                                    ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_PIXEL_DATA.v                                               ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_SDRAM.v                                                    ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_SEVEN_SEG_0.v                                              ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_SPI.v                                                      ;
+; NIOS2_WEEK2/synthesis/submodules/NIOS2_WEEK2_SRAM.v                                                     ;
+; pixel_buffer_ram.bsf                                                                                    ;
+; pixel_buffer_ram.qip                                                                                    ;
+; pixel_buffer_ram.v                                                                                      ;
+; pixel_buffer_ram_bb.v                                                                                   ;
+; vga_controller.v                                                                                        ;
+; Week3_Lab.bdf                                                                                           ;
+; Week3_Lab.qsf                                                                                           ;
+; WEEK4LPMCTR.bsf                                                                                         ;
+; WEEK4LPMCTR.qip                                                                                         ;
+; WEEK4LPMCTR.v                                                                                           ;
+; WEEK4LPMCTR_bb.v                                                                                        ;
+; Week4PLL.bsf                                                                                            ;
+; Week4PLL.ppf                                                                                            ;
+; Week4PLL.qip                                                                                            ;
+; Week4PLL.v                                                                                              ;
+; Week4PLL_bb.v                                                                                           ;
++---------------------------------------------------------------------------------------------------------+
+
+

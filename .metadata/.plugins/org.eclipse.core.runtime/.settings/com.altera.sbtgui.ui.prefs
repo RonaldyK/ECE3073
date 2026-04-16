@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=C\:\\ECE3073\\Project\\software\\vga_accel_init
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\ECE3073\\Project\\NIOS2_WEEK2.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\ECE3073\\Project\\software\\vga_accel_init_bsp
