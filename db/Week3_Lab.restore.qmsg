@@ -1,3 +1,0 @@
-{ "Warning" "WCPT_CANNOT_CONTACT_SERVER" "1700@lic-altera.eng.monash.edu " "Can't contact license server \"1700@lic-altera.eng.monash.edu\" -- this server will be ignored." {  } {  } 0 292006 "Can't contact license server \"%1!s!\" -- this server will be ignored." 0 0 "Design Software" 0 -1 1774804309016 ""}
-{ "Info" "0" "" "Successfully restored 'C:/ECE3073/Week_5/Week5_Lab_tmp_archive.qar' into the 'C:/ECE3073/Project' directory" {  } {  } 0 0 "Successfully restored 'C:/ECE3073/Week_5/Week5_Lab_tmp_archive.qar' into the 'C:/ECE3073/Project' directory" 0 0 "0" 0 0 1774804309055 ""}
-{ "Info" "0" "" "Generated report 'Week3_Lab.restore.rpt'" {  } {  } 0 0 "Generated report 'Week3_Lab.restore.rpt'" 0 0 "0" 0 0 1774804309055 ""}
